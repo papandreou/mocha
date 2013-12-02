@@ -1,6 +1,6 @@
 {
-  "name": "mocha",
-  "version": "1.14.0",
+  "name": "mocha-papandreou",
+  "version": "1.15.0-patch1",
   "description": "simple, flexible, fun test framework",
   "keywords": [
     "mocha",
